@@ -1,7 +1,7 @@
 Trello is a great tracking tool for large sophisticated projects with several steps and several collaborators. 
-The main idea is that all the actions could be divided into 3 main gropus: to do, doing and done -
+The main idea is that all the actions could be divided into 3 main groups: to do, doing and done -
 this is a great way to stay on track and check your priorities. The names of the groups could be different from the named 3,
-but all should make sense and fit into teh flow. Trello is a great digital tool to follow this logic.
+but all should make sense and fit into the flow. Trello is a great digital tool to follow this logic.
 The link to this service is www.trello.com
 
 
