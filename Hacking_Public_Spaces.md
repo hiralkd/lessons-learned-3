@@ -6,7 +6,6 @@ Most people are absolutelt not aware that this type of hacking is a very real po
 The article below highlights the ease of hacking into public spaces
 
 
-![Image of Robber]
-(http://cliparts.co/cliparts/kTK/nka/kTKnkao9c.png)
+![Robber](http://cliparts.co/cliparts/kTK/nka/kTKnkao9c.png)
 
 [Hacking] (http://www.dailymail.co.uk/sciencetech/article-2919762/Hacking-Wi-Fi-s-child-s-play-Seven-year-old-shows-easy-break-public-network-11-minutes.html)
